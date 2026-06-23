@@ -1,4 +1,5 @@
-### PERSONAL BLOG (FLASK PROJECT)
+# PERSONAL BLOG (FLASK PROJECT)
+
 A simple personal blog website application built using python Flask,where users can view blog posts and an admin can create,edit and manage post using json-based storage system.
 ---
 
@@ -22,7 +23,6 @@ A simple personal blog website application built using python Flask,where users 
 ---
 
 ## Project Structure
-
 personal_blog/
 │
 ├── app.py
@@ -50,15 +50,15 @@ personal_blog/
 
 ##  How to Run
 
-# 1. Create virtual environment
+### 1. Create virtual environment
 python -m venv .venv
-# 2. Activate it
+### 2. Activate it
 .venv\Scripts\activate (for windows)
-# 3. Install Flask
+### 3. Install Flask
 .venv\Scripts\activate 
-# 4. Run the app
+### 4. Run the app
 python app.py
-# 5. Open in browser
+### 5. Open in browser
 http://localhost:8000
 
 ---
