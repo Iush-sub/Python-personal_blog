@@ -1,6 +1,7 @@
 # PERSONAL BLOG (FLASK PROJECT)
+A simple personal blog web application built using Python Flask.  
+It allows users to view blog posts and an admin to create and edit posts stored in a JSON file.
 
-A simple personal blog website application built using python Flask,where users can view blog posts and an admin can create,edit and manage post using json-based storage system.
 ---
 
 ## Features
